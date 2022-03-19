@@ -1,13 +1,11 @@
 
 <h1 align="center">👋 Hi, I’m Kamil AKA @illoqical</h1>
 
-🔭 I’m currently working on
+🔭 I’m currently working on [workflow and budget app](https://github.com/illoqical/Lidar_project/).
 
-[workflow and budget app](https://github.com/illoqical/Lidar_project/).
+🌱 I’m currently learning **C# language**
 
-- 🌱 I’m currently learning **C# language**
-
-- :palm_tree: Additionally, in my spare time i build games with friends.
+:palm_tree: Additionally, in my spare time i build games with friends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
