@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I’m Kamil AKA @illoqical</h1>
-- 🔭 I’m currently working on [workflow and budget app](https://github.com/illoqical/Lidar_project)
+- 🔭 I’m currently working on [workflow and budget app](https://github.com/illoqical/Lidar_project/).
 
 - 🌱 I’m currently learning **C# language**
 
