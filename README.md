@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Kamil AKA @nemqq</h1>
 
-🔭 I’m currently working on [workflow and budget app in C# forms.](https://github.com/nemqq/Lidar_project/).
+🔭 I’m currently working on [workflow and budget app](https://github.com/nemqq/Lidar_project/)in C# forms.
 
 🌱 I’m currently learning **C# language**
 
