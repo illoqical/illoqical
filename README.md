@@ -1,7 +1,7 @@
 
-<h1 align="center">👋 Hi, I’m Kamil AKA @illoqical</h1>
+<h1 align="center">👋 Hi, I’m Kamil AKA @nemqq</h1>
 
-🔭 I’m currently working on [workflow and budget app](https://github.com/illoqical/Lidar_project/).
+🔭 I’m currently working on [workflow and budget app](https://github.com/nemqq/Lidar_project/).
 
 🌱 I’m currently learning **C# language**
 
@@ -22,6 +22,6 @@
 <p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <!---
-illoqical/illoqical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nemqq/nemqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
