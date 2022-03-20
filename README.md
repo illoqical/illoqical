@@ -1,16 +1,15 @@
 <h1 align="center">👋 Hi, I’m Kamil AKA @nemqq</h1>
 
-🔭 I’m currently working on [workflow and budget app](https://github.com/nemqq/Lidar_project/)in C# forms.
+:coffee: I’m currently working on [workflow and budget app](https://github.com/nemqq/Lidar_project/) in C# forms.
 
 🌱 I’m currently learning **C# language**
 
-:palm_tree: Additionally, in my spare time i build games with friends.
+:space_invader: Additionally, in my spare time i [build games](https://www.sandzstudio.com/) with friends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@pass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pass" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/my link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my link" height="30" width="40" /></a>
-<a href="https://fb.com/kamil sikora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamil sikora" height="30" width="40" /></a>
+<a href="https://twitter.com/@pass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Nem_esiSv1" height="30" width="40" /></a>
+<a href="linkedin.com/in/kamil-sikora-07705522b link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my link" height="30" width="40" />
 <a href="https://discord.gg/disc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="disc" height="30" width="40" /></a></p>
 
 
