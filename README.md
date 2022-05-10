@@ -2,7 +2,7 @@
 
 :coffee: I’m currently working on [workflow and budget app](https://github.com/nemqq/Lidar_project/) in C# forms.
 
-🌱 I’m currently learning **C# language**
+🌱 I’m currently learning **C# language** and **C language**
 
 :space_invader: Additionally, in my spare time i [build games](https://www.sandzstudio.com/) with friends.
 
