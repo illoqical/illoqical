@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hi, I’m Kamil</h1>
 
-:coffee: I’m currently working on [workflow and budget app](https://github.com/nemqq/Lidar_project/) in C# forms.
-
-🌱 I’m currently learning **C# language** and **C language**
-
-:space_invader: Additionally, in my spare time i [build games](https://www.sandzstudio.com/) with friends.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@NemqVqr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@NemqVqr" height="30" width="40" /></a>
